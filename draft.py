@@ -1,5 +1,6 @@
 import random
 import time
+import json
 
 from data.a1 import genetic_apex
 
@@ -22,7 +23,7 @@ class Draft:
 
     def export(self):
         name = time.strftime('%Y-%m-%d: Pokemon Pocket Draft')
-        print(name, self.packs)
+        print(name, json.dumps(self.packs, indent=2))
 
 if __name__ == '__main__':
     Draft({
@@ -31,7 +32,7 @@ if __name__ == '__main__':
         'cards_per_rarity': {
             '2s': 3,
             '1s': 3,
-            '4d': 6,
+            '4d': 3,
             '3d': 8,
             '2d': 10,
             '1d': 12,
