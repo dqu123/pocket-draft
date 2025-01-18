@@ -36,7 +36,7 @@ class Draft:
 
     def export(self):
         name = time.strftime("%Y-%m-%d_PokemonPocketDraft")
-        with open("output/{}.txt".format(name), "w") as f:
+        with open("output/{}.json".format(name), "w") as f:
             f.write(json.dumps(self.packs, indent=2))
 
 
