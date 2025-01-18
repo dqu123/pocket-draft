@@ -1,0 +1,187 @@
+[
+  [
+    [
+      "A1 267 Misty",
+      "A1 278 Machamp ex",
+      "A1 276 Zapdos ex"
+    ],
+    [
+      "A1 279 Wigglytuff ex",
+      "A1 272 Sabrina",
+      "A1 264 Marowak ex"
+    ],
+    [
+      "A1 265 Wigglytuff ex",
+      "A1 254 Arcanine ex",
+      "A1 268 Blaine"
+    ]
+  ],
+  [
+    [
+      "A1 242 Golbat",
+      "A1 244 Dragonite",
+      "A1 234 Lapras"
+    ],
+    [
+      "A1 249 Porygon",
+      "A1 232 Squirtle",
+      "A1 228 Gloom"
+    ],
+    [
+      "A1 243 Weezing",
+      "A1 230 Charmander",
+      "A1 236 Alakazam"
+    ]
+  ],
+  [
+    [
+      "A1 036 Charizard ex",
+      "A1 084 Articuno ex",
+      "A1 104 Zapdos ex"
+    ],
+    [
+      "A1 195 Wigglytuff ex",
+      "A1 123 Gengar ex",
+      "A1 004 Venusaur ex"
+    ],
+    [
+      "A1 041 Arcanine ex",
+      "A1 153 Marowak ex",
+      "A1 146 Machamp ex"
+    ]
+  ],
+  [
+    [
+      "A1 095 Raichu",
+      "A1 103 Zapdos",
+      "A1 211 Snorlax",
+      "A1 145 Machamp",
+      "A1 168 Nidoqueen",
+      "A1 128 Mewtwo",
+      "A1 149 Golem",
+      "A1 055 Blastoise"
+    ],
+    [
+      "A1 045 Flareon",
+      "A1 040 Arcanine",
+      "A1 010 Beedrill",
+      "A1 185 Dragonite",
+      "A1 109 Eelektross",
+      "A1 205 Ditto",
+      "A1 117 Alakazam",
+      "A1 132 Gardevoir"
+    ],
+    [
+      "A1 102 Jolteon",
+      "A1 177 Weezing",
+      "A1 122 Gengar",
+      "A1 020 Victreebel",
+      "A1 171 Nidoking",
+      "A1 022 Exeggutor",
+      "A1 083 Articuno",
+      "A1 175 Muk"
+    ]
+  ],
+  [
+    [
+      "A1 213 Cinccino",
+      "A1 017 Venomoth",
+      "A1 209 Porygon",
+      "A1 088 Frogadier",
+      "A1 165 Arbok",
+      "A1 152 Marowak",
+      "A1 075 Starmie",
+      "A1 173 Golbat",
+      "A1 086 Swanna",
+      "A1 140 Dugtrio"
+    ],
+    [
+      "A1 108 Eelektrik",
+      "A1 116 Kadabra",
+      "A1 180 Bisharp",
+      "A1 161 Mienshao",
+      "A1 052 Centiskorch",
+      "A1 060 Poliwhirl",
+      "A1 163 Grapploct",
+      "A1 034 Charmeleon",
+      "A1 071 Seadra",
+      "A1 100 Electrode"
+    ],
+    [
+      "A1 043 Rapidash",
+      "A1 028 Whimsicott",
+      "A1 114 Clefable",
+      "A1 150 Onix",
+      "A1 119 Slowbro",
+      "A1 065 Dewgong",
+      "A1 069 Kingler",
+      "A1 148 Graveler",
+      "A1 167 Nidorina",
+      "A1 054 Wartortle"
+    ]
+  ],
+  [
+    [
+      "A1 139 Diglett",
+      "A1 021 Exeggcute",
+      "A1 033 Charmander",
+      "A1 044 Magmar",
+      "A1 105 Blitzle",
+      "A1 216 Helix Fossil",
+      "A1 130 Ralts",
+      "A1 194 Wigglytuff",
+      "A1 172 Zubat",
+      "A1 085 Ducklett",
+      "A1 160 Mienfoo",
+      "A1 164 Ekans"
+    ],
+    [
+      "A1 133 Woobat",
+      "A1 214 Wooloo",
+      "A1 077 Magikarp",
+      "A1 057 Psyduck",
+      "A1 053 Squirtle",
+      "A1 156 Rhyhorn",
+      "A1 115 Abra",
+      "A1 059 Poliwag",
+      "A1 073 Seaking",
+      "A1 011 Oddish",
+      "A1 135 Golett",
+      "A1 064 Seel"
+    ],
+    [
+      "A1 190 Raticate",
+      "A1 206 Eevee",
+      "A1 124 Drowzee",
+      "A1 051 Sizzlipede",
+      "A1 196 Meowth",
+      "A1 032 Gogoat",
+      "A1 217 Dome Fossil",
+      "A1 094 Pikachu",
+      "A1 212 Minccino",
+      "A1 191 Spearow",
+      "A1 181 Meltan",
+      "A1 193 Jigglypuff"
+    ]
+  ],
+  [
+    [
+      "P-A 003 Hand scope",
+      "A1 220 Misty",
+      "A1 217 Dome Fossil",
+      "A1 219 Erika"
+    ],
+    [
+      "A1 221 Blaine",
+      "A1 218 Old Amber",
+      "P-A 002 X speed",
+      "A1 222 Koga"
+    ],
+    [
+      "A1 224 Brock",
+      "A1 223 Giovanni",
+      "P-A 007 Professor's Research",
+      "P-A 001 Potion"
+    ]
+  ]
+]

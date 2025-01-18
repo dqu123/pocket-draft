@@ -22,8 +22,9 @@ class Draft:
         self.packs = packs
 
     def export(self):
-        name = time.strftime('%Y-%m-%d: Pokemon Pocket Draft')
-        print(name, json.dumps(self.packs, indent=2))
+        name = time.strftime('%Y-%m-%d_PokemonPocketDraft')
+        with open('output/{}.txt'.format(name), 'w') as f:
+            f.write(json.dumps(self.packs, indent=2))
 
 if __name__ == '__main__':
     Draft({
