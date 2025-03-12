@@ -3,6 +3,7 @@ import time
 import json
 
 from data.a1 import genetic_apex, mythical_island
+from data.a2 import space_time, triumphant_light
 
 
 def combine_data(datasets):
@@ -17,7 +18,9 @@ def combine_data(datasets):
 
 class Draft:
     def __init__(self, opts):
-        card_pool = combine_data([genetic_apex, mythical_island])
+        card_pool = combine_data(
+            [genetic_apex, mythical_island, space_time, triumphant_light]
+        )
 
         packs = []
         for rarity in opts["rounds"]:
